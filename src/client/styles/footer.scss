@@ -1,0 +1,28 @@
+footer {
+    background-color: rgb(24, 22, 155);
+    height: 50px;
+}
+
+footer a {
+    color: #ffe8d6ff;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ddd;
+    border-radius: 0.5em;
+    color: #ffe8d6ff;
+}
+
+footer img {
+    width: 36px;
+    height: 36px;
+}
+
+footer li {
+    display: inline;
+}
+
+.socials {
+    margin-top: 5px;
+}
